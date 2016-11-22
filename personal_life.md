@@ -5,7 +5,7 @@ title: Personal Life
 
 >“Out beyond ideas of wrongdoing and rightdoing there is a field. I'll meet you there. When the soul lies down in that grass the world is too full to talk about." Rumi </br>
 
-![Singing at DIG Event](/images/dig1.jpg)
+![Singing at DIG Event](/pictures/dig1.jpg)
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
 There are currently two themes built on Poole:
