@@ -6,6 +6,7 @@ title: About Me
 <div class="message">
   Welcome to my Personal Webpage. In this space, I post the most recent notifications. </br></br>
   <ul>
+  <li><strong>20.12.2016: </strong>I am flying to San Francisco to visit my lovely cousins for the Christmas Break!</li>
   <li><strong>22.11.2016: </strong>I am helping as a volunteer to organize the <a href="http://tdi2016.dbis.rwth-aachen.de/"> Tag Der Informatik (Computer Science Day)</a> at RWTH</li>
   <li><strong>16.10.2016: </strong>I am continuing my job as a Research Assistant at the <a href="http://dbis.rwth-aachen.de/cms">Databases and Information Systems Group</a> under <a href="http://dbis.rwth-aachen.de/cms/staff/quix">PD Dr. Christoph Quix</a></li>
   <li><strong>05.10.2016: </strong>I delivered a talk at i5 on Machine Learning Methods. Slides are available <a href="../documents/mltalk.pdf">here</a></li>
@@ -13,6 +14,7 @@ title: About Me
 </ul>
 </div>
 
+<!---
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
 There are currently two themes built on Poole:
@@ -34,3 +36,13 @@ Some fun facts about the setup of this project include:
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
+-->
+
+Some fun facts about the setup of this project include:
+
+* Built for Jekyll [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Atom by Github](https://atom.io/), the truly awesome code editor
+* Designed and developed while listening to music like this:
+
+<iframe src="https://embed.spotify.com/?uri=spotify:user:12141976702:playlist:1h65hClFfGyFf3cLJJwKVi" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
