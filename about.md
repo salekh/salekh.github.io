@@ -14,7 +14,7 @@ To know more about my personal life, please visit [this](http://salekh.github.io
   <ul>
   <li><strong>01.04.2017: </strong> I will take a break to visit India for 20 days</li>
   <li><strong>20.03.2017: </strong> I will start a new intensive phase of my German Language Course</li>
-  <li><strong>10.03.2017: </strong> I came to the end of my first phase of my exam season. I took exams in 5 subjects, namely Satisfiability Checking, Computer Vision, Virtual Reality, Big Data in Medical Informatics and Implementation of Databases.</li>
+  <li><strong>10.03.2017: </strong> I came to the end of the first phase of my exam season. I took exams in 5 subjects, namely Satisfiability Checking, Computer Vision, Virtual Reality, Big Data in Medical Informatics and Implementation of Databases.</li>
 
   </ul>
 </div>
