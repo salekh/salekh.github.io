@@ -3,7 +3,9 @@ layout: page
 title: Curriculum Vitae
 ---
 
-For a more comprehensive PDF version of my CV, please visit [here](../documents/sanchit-resume.pdf)
+For a more comprehensive PDF version of my CV, please visit [here](../documents/sanchit-resume.pdf)     
+For a short resume, see [here](../documents/sanchit-short-resume.pdf)   
+For my latest transcript, see [here](../documents/transcript.pdf)
 
 ### **Education**
 
