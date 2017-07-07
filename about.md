@@ -12,9 +12,10 @@ To know more about my personal life, please visit [this](http://salekh.github.io
 <div class="message">
   <h2>Current Events and Notifications</h2>
   <ul>
+  <li><strong>07.07.2017: </strong> In January 2018, I will join <a href="https://www.audi.de/de/brand/de.html">AUDI AG</a> for an Internship as a Data Scientist.</li>
+  <li><strong>07.07.2017: </strong> I recently delivered a talk on <strong>Automatic Raga Recognition in Hindustani Classical Music</strong> for my seminar on Computer Music. The slides can be found <a href="../documents/raga.pdf">here</a>. Along with that, there is also an accompanying academic paper, which can be found <a href="../documents/raga-report.pdf">here</a>. </li>
   <li><strong>25.04.2017: </strong> I am taking two seminars, namely <strong>Privacy and Big Data</strong> and <strong>Computer Music</strong> and a lab course on <strong>SMT-Solving with Simplex</strong></li>
   <li><strong>15.04.2017: </strong> I started my the second semester of my Master studies. In this semester, I am taking courses on <strong>Logic Programming, Software Project Management</strong> and <strong>Functional Safety and System Dependability</strong></li>
-  <li><strong>10.03.2017: </strong> I came to the end of the first phase of my exam season. I took exams in 5 subjects, namely Satisfiability Checking, Computer Vision, Virtual Reality, Big Data in Medical Informatics and Implementation of Databases.</li>
 
   </ul>
 </div>
@@ -45,7 +46,8 @@ Thanks for reading!
 <div class="message">
     <h2>Past Events:</h2>
     <ul>
-    <li><strong>20.03.2017: </strong> I successfully completed Level B2 in German at the <a href="http://www.sz.rwth-aachen.de/sprachenzentrum.html">Sprachenzentrum RWTH Aachen</a></li>
+    <li><strong>10.03.2017: </strong> I came to the end of the first phase of my exam season. I took exams in 5 subjects, namely Satisfiability Checking, Computer Vision, Virtual Reality, Big Data in Medical Informatics and Implementation of Databases.</li>
+    <li><strong>20.03.2017: </strong> I successfully completed Level A2 in German at the <a href="http://www.sz.rwth-aachen.de/sprachenzentrum.html">Sprachenzentrum RWTH Aachen</a></li>
     <li><strong>01.04.2017: </strong> I took a break to visit India for 20 days</li>
     <li><strong>20.12.2016: </strong>I travelled to the San Francisco Bay Area to visit my lovely cousins for the Christmas Break!</li>
     <li><strong>22.11.2016: </strong>I helped as a volunteer to organize the <a href="http://tdi2016.dbis.rwth-aachen.de/"> Tag Der Informatik (Computer Science Day)</a> at RWTH</li>
