@@ -4,7 +4,7 @@
  <title>Sanchit Alekh</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-01-20T14:39:00+01:00</updated>
+ <updated>2018-01-20T23:36:45+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Sanchit Alekh</name>
@@ -13,13 +13,28 @@
 
  
  <entry>
+   <title>Human Aspects of Privacy in Relation to Personalization</title>
+   <link href="http://localhost:4000/2018/01/20/human-privacy/"/>
+   <updated>2018-01-20T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2018/01/20/human-privacy</id>
+   <content type="html">&lt;p&gt;The concept of privacy is inherently intertwined with human attitudes and behaviours, as most computer systems are primarily designed for human-use. Especially in the case of Recommender Systems, which feed on information provided by individuals, their efficacy critically depends on whether or not information is externalized, and if it is, how much of this information contributes positively to their performance and accuracy.&lt;/p&gt;
+
+&lt;p&gt;In my seminar on &lt;strong&gt;Privacy and Big Data&lt;/strong&gt; taken at RWTH, I discussed the impact of several factors on users’ information disclosure behaviours and privacy-related attitudes, and how users of recommender systems can be nudged into making better privacy decisions for themselves. Apart from that, I also addressed the problem of privacy adaptation, i.e. effectively tailoring Recommender Systems by gaining a deeper understanding of people’s cognitive decision-making process.&lt;/p&gt;
+
+&lt;p&gt;The seminar was taken under Prof. Dr. Stefan Decker at the chair of Databases and Information Systems. The full seminar report can be found &lt;a href=&quot;../documents/human-privacy.pdf&quot;&gt;here&lt;/a&gt;. The presentation for my delivered talk can be accessed &lt;a href=&quot;../documents/privacy-seminar.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Feature Extraction And Statistical Analysis Of Ragas In Indian Classical Music - A Summary</title>
    <link href="http://localhost:4000/2017/05/01/computer-music/"/>
    <updated>2017-05-01T00:00:00+02:00</updated>
    <id>http://localhost:4000/2017/05/01/computer-music</id>
    <content type="html">&lt;p&gt;Hindustani Classical Music is a music form originating from the northern part of India. It was composed between 1500-900 B.C, making it widely regarded as one of the oldest music systems in the world. Traditionally, it has been enjoyed as not just a means for aesthetic pleasure, but a way of realizing inner happiness and self-release. There is also a strong sense of spirituality associated with Hindustani Music, which is essential for its study and practice. The most striking feature of Hindustani Music is its imaginative and improvised nature, which implies that there are no written script even while performing. There are no fixed compositions that the artist has to adhere to. In effect, the entire performance is an extempore, and the artist is playing the role of the singer, composer and the conductor all at the same time. The artist adheres to a concept called as the Raga. The Raga is the central melodic concept in Indian music. According to Rao et al., it is neither a tune, nor is it a modal scale, but rather a continuum with scale and tune as its extremes. Broadly speaking, it can be termed as a melodic mode or tonal matrix possessing a rigid and specific individual identity, yet bearing immense potential for infinite improvisatory possibilities. The raga serves as a basic grammar for composition and improvisation in Indian music.&lt;/p&gt;
 
-&lt;p&gt;The use of statistical and probabilistic tools in Musicology is not new. Temperley and Beran have very systematically laid down the probabilistic and statistical techniques used for music analyses respectively. The well-defined structure of a Raga makes the possibility of the usage of probabilistic and stochastic modeling techniques extremely favourable. Although the notes and intonations in an artist’s rendition are inherently unpredictable, there are some properties of the raga, e.g. the most dominant note (vadi), the second most dominant note (samvadi) and the identifying tonic pattern(pakad), which are more-or-less kept constant. This has led to the development of several approaches for automatic classification and clustering of ragas. The task of raga identification has been a subject of great curiosity among researchers. Given the fact that music is an art, and the plethora of improvisation possibilities that the artist can employ, even seasoned human listeners sometimes find it difficult to identify ragas. Indeed, some ragas have very minute differences, some have the same scale and notes, however the pattern of their usage and the corresponding emotions induced can be extremely different. One of the most notable examples is Raga Bhupali and Raga Deshkar. Some sophisticated automatic techniques have, however been fairly successful as they are able to infer a whole body of information about the raga using techniques such as Pitch Distribution Methods, Transposition Invariance Uniform Time Scaling and Vector Space Modeling. My research and experiments over the course of this seminar will attempt to inquire into the different approaches used for feature extraction and statistical analysis of ragas, and how these are further employed for Tonic Similarity Calculation, Raga Identification, Mood Detection, Detection and Classification of Melodic Motifs and Automatic Music Composition.&lt;/p&gt;
+&lt;p&gt;The use of statistical and probabilistic tools in Musicology is not new. Temperley and Beran have very systematically laid down the probabilistic and statistical techniques used for music analyses respectively. The well-defined structure of a Raga makes the possibility of the usage of probabilistic and stochastic modeling techniques extremely favourable. Although the notes and intonations in an artist’s rendition are inherently unpredictable, there are some properties of the raga, e.g. the most dominant note (vadi), the second most dominant note (samvadi) and the identifying tonic pattern(pakad), which are more-or-less kept constant. This has led to the development of several approaches for automatic classification and clustering of ragas. The task of raga identification has been a subject of great curiosity among researchers. Given the fact that music is an art, and the plethora of improvisation possibilities that the artist can employ, even seasoned human listeners sometimes find it difficult to identify ragas. Indeed, some ragas have very minute differences, some have the same scale and notes, however the pattern of their usage and the corresponding emotions induced can be extremely different. One of the most notable examples is Raga Bhupali and Raga Deshkar. Some sophisticated automatic techniques have, however been fairly successful as they are able to infer a whole body of information about the raga using techniques such as Pitch Distribution Methods, Transposition Invariance Uniform Time Scaling and Vector Space Modeling.&lt;/p&gt;
+
+&lt;p&gt;My research and experiments over the course of the seminar on Computer Music, taken during my Master degree at RWTH, attempted to inquire into the different approaches used for feature extraction and statistical analysis of ragas, and how these are further employed for Tonic Similarity Calculation, Raga Identification, Mood Detection, Detection and Classification of Melodic Motifs and Automatic Music Composition. The full presentation can be accessed over &lt;a href=&quot;../documents/raga.pdf&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -32,21 +47,6 @@
 
 &lt;p&gt;This exciting (and sometimes haunting) prospect makes Robotics and AI much more than a standalone discipline. It requires a culmination of thoughts, concepts and processes from several other sciences and arts, such as Psychology, Anthropology, Ethics, Law, Production Engineering and several others. This means that future robotics doesn’t just have to ensure good design and high productivity, but it also needs to take into account all the other humane and ethical factors. Some intriguing questions that immediately come to mind are: Should Robots have rights? Should there be a maximum time limit for which they can be put to work? For a sustainable and harmonious future, we would need answers to such questions, and this would require knowledge about not just artificial intelligence, but how it intimately interacts with the other scientific fields mentioned above.&lt;/p&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>About Jekyll</title>
-   <link href="http://localhost:4000/2016/11/22/whats-jekyll/"/>
-   <updated>2016-11-22T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2016/11/22/whats-jekyll</id>
-   <content type="html">&lt;p&gt;This website is maintained using &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;. Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
