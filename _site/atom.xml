@@ -4,13 +4,55 @@
  <title>Sanchit Alekh</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-01-20T23:43:39+01:00</updated>
+ <updated>2018-05-03T23:34:06+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Sanchit Alekh</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>The Power of Imagination</title>
+   <link href="http://localhost:4000/2018/04/27/imagination/"/>
+   <updated>2018-04-27T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2018/04/27/imagination</id>
+   <content type="html">&lt;p&gt;What is human existence, if not our power to imagine a better world, and the tenacity to make it happen? Since time immemorial, we have imagined superior ways to express, create and invent. This is what has given us infinite possibilities to progress and transform ourselves from hunter-gatherers to a species living a sophisticated life with a purpose.
+In the recent years, scientists and researchers have continually strived to push the boundaries of technology further and further. I would go as far as to say that Computer Science, which is a relatively young field of science, would not have risen to prominence if we had not collectively imagined building machines which could undertake and perform the most complex tasks that humans could.&lt;/p&gt;
+
+&lt;p&gt;And yet, more and more perplexing questions surround us. For example,&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scientificamerican.com/article/computers-are-becoming-fa/&quot;&gt;How fast are our computers going to be in future?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/s/601441/moores-law-is-dead-now-what/&quot;&gt;What will happen once we are no longer able to create smaller circuits?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/shephyken/2017/12/17/will-ai-take-over-the-world/&quot;&gt;Is AI going to take over?&lt;/a&gt; &lt;a href=&quot;https://www.raconteur.net/technology/five-ways-quantum-computing-will-change-cybersecurity-forever&quot;&gt;Will all our cryptographic algorithms be broken by quantum computers?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www2.deloitte.com/insights/us/en/focus/industry-4-0/smart-factory-connected-manufacturing.html&quot;&gt;Can factories operate without human intervention?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vrs.org.uk/virtual-reality-healthcare/surgery.html&quot;&gt;Can we perform surgeries using Virtual Reality?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Many of these questions have viable answers in imagination. But it doesn’t end here. Imagination also helps us pose the right questions, which I believe, is even more important for a scientist. Imagination has the power to drive the world forward, and that if pursued in a multi-disciplinary and collaborative manner along with a productive exchange of ideas, it can really lead to something substantial and path breaking.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Should Biotechnology take a step back and ponder about Ethical Issues?</title>
+   <link href="http://localhost:4000/2018/04/25/biotechnology-ethics/"/>
+   <updated>2018-04-25T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2018/04/25/biotechnology-ethics</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;“The potential for synthetic biology and biotechnology is vast; we all have an opportunity to create the future together.” -Ryan Bethencourt&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Biotechnology has made huge strides over the last few decades. This is reflected in the steadily rising global life expectancy and lower infant mortality rates. However, as technology becomes more advanced and industries grow more powerful, several ethical questions confront us, and the onus to answer them doesn’t fall solely on the shoulders of biotechnology researchers. Indeed, since these topics concern each and every human being, the decisions and deliberations must be made collectively by the society by including as many stakeholders as possible.&lt;/p&gt;
+
+&lt;p&gt;The issue of privacy, more specifically, protecting the privacy of subjects of clinical trials concerns me the most, given my background in privacy research with biomedical data. Although data from clinical trials must be made available for research, we must be extremely careful and sensitive towards the privacy of the participants. Legal frameworks such as &lt;a href=&quot;https://www.hhs.gov/hipaa/index.html&quot;&gt;HIPAA&lt;/a&gt; have fostered a positive change, but groundbreaking technologies such as cryptography and blockchain have a huge role to play in building transparency and trust for data sharing.&lt;/p&gt;
+
+&lt;p&gt;Another issue that received worldwide attention was the &lt;a href=&quot;https://www.globalresearch.ca/the-seeds-of-suicide-how-monsanto-destroys-farming/5329947&quot;&gt;plight of the farmers using Monsanto seeds&lt;/a&gt;, and over here rises the ethical issue of what can be patented and what must not be. At the same time, we need to make sure that the world remains free and clear of bioterrorism, which can prove to be very potent and can lead to a huge loss of human lives. In this regard, we must come together and discuss the relevant points such that our research does not take the wrong direction.&lt;/p&gt;
+
+&lt;p&gt;Last but not least, I believe that biotechnology and healthcare always have a human element to them, and research in these fields are undertaken to benefit humanity as a whole. Therefore, healthcare must always be affordable, and biotechnology, as a field, must be unselfish. Although, in future, biotechnological progress might involve processes such as germ-line manipulation, we must be extremely careful before we tread this path. In this case, future generations automatically become important stakeholders, and therefore, the ethical questions posed must be answered.&lt;/p&gt;
+
+&lt;p&gt;This is a great time to be enthusiastic about biotechnological progress, and the wider societal impact they will have. At the same time, I believe that discussions concerning ethics should never be done behind closed doors. In this regard, I am hopeful that suitable public platforms for discussion and negotiation will go a long way in ensuring that we always take the right step forward.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Human Aspects of Privacy in Relation to Personalization</title>
@@ -22,6 +64,31 @@
 &lt;p&gt;In my seminar on &lt;strong&gt;Privacy and Big Data&lt;/strong&gt; taken at RWTH, I discussed the impact of several factors on users’ information disclosure behaviours and privacy-related attitudes, and how users of recommender systems can be nudged into making better privacy decisions for themselves. Apart from that, I also addressed the problem of privacy adaptation, i.e. effectively tailoring Recommender Systems by gaining a deeper understanding of people’s cognitive decision-making process.&lt;/p&gt;
 
 &lt;p&gt;The seminar was taken under Prof. Dr. Stefan Decker at the chair of Databases and Information Systems. The full seminar report can be found &lt;a href=&quot;../documents/human-privacy.pdf&quot;&gt;here&lt;/a&gt;. The presentation for my delivered talk can be accessed &lt;a href=&quot;../documents/privacy-seminar.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>IDEA League Summer School on Responsible Robotics and AI</title>
+   <link href="http://localhost:4000/2017/11/07/summer-school/"/>
+   <updated>2017-11-07T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2017/11/07/summer-school</id>
+   <content type="html">&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+&lt;p&gt;From 27–30th August, 2017, a summer school on “Responsible Robotics and AI” was hosted at the Technische Universiteit Delft.  &lt;a href=&quot;http://idealeague.org/summerschool/&quot;&gt;IDEA League Summer School&lt;/a&gt; is a collaborative summer programme for graduate students and PhDs of the respective member universities. The diverse group of participants included those from ETH Zürich, RWTH Aachen, Chalmers University of Technology, RWTH Aachen, Politecnico di Milano and TokyoTech.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../pictures/idealeague.jpg&quot; alt=&quot;Singing at DIG Event&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-was-this-summer-school-about-and-why-is-it-important&quot;&gt;What was this summer school about, and why is it important?&lt;/h3&gt;
+&lt;p&gt;The topic, i.e &lt;strong&gt;&lt;em&gt;Responsible Robotics and AI&lt;/em&gt;&lt;/strong&gt; is truly an inter-disciplinary amalgamation of topics such as psychology, robotics, ethics, design and computer science. As robots become more omnipresent and a significantly larger part of our personal lives, several ethical questions confront us as humans. The summer school tried to discuss and address these questions by stimulating the students not only with the latest academic research, but also with dialogues, conversations and productive group-activities.&lt;/p&gt;
+
+&lt;h3 id=&quot;who-were-the-participants&quot;&gt;Who were the participants?&lt;/h3&gt;
+&lt;p&gt;There were about 20 participants from IDEA League and ASPIRE League universities. Even more striking was the fact that the participants came from diverse and heterogeneous cultural backgrounds. There were participants from Italy, India, China, Vietnam, Portugal and Colombia to name a few. This ensured that the discussions always had different perspectives and it was extremely stimulating to think about various issues such as humanitarian aid, sex robots, robot laws from various points of view and appreciate the different factors involved in different situations. At the same time, there were friendly and informal discussions about different countries and their cultures, adding a whole new gamut of inter-cultural learning.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-were-the-talks-about&quot;&gt;What were the talks about?&lt;/h3&gt;
+&lt;p&gt;Since the topic is highly inter-disciplinary, the talks were also designed to give us different perspectives of the topic. &lt;a href=&quot;https://www.tudelft.nl/en/tpm/about-the-faculty/departments/values-technology-and-innovation/people/assistant-professors/dr-a-aimee-van-wynsberghe/&quot;&gt;Aimee Van Wynsberghe&lt;/a&gt; from TU Delft introduced the topic and provided an essential treatment of ethics and embedded it into the subject of robotics. &lt;a href=&quot;http://pure.au.dk/portal/en/persons/johanna-seibt(60a3d664-19f6-4fb6-9bde-625e6cee6f53).html&quot;&gt;Johanna Seibt&lt;/a&gt; from Aarhus University talked about how to attribute responsibility in robotics. &lt;a href=&quot;http://www.denisesoesilo.com/&quot;&gt;Denise Soesilo&lt;/a&gt; and &lt;a href=&quot;https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/associate-professors/dr-tc-tina-comes/&quot;&gt;Tina Comes&lt;/a&gt; talked about the use of robots in humanitarian aid. &lt;a href=&quot;https://www.tudelft.nl/en/3me/organisation/organisation/departments/process-energy/people/intensified-reaction-separation-systems/barry-fitzgerald/&quot;&gt;Barry Fitzgerald&lt;/a&gt; talked about taking inspiration from superhero movies to develop more advanced robotic technologies. &lt;a href=&quot;http://staffwww.dcs.shef.ac.uk/people/N.Sharkey/&quot;&gt;Noel Sharkey&lt;/a&gt; addressed the controversial issue of sex-robots, and the ethical issues involved with them.&lt;/p&gt;
+
+&lt;h3 id=&quot;was-it-all-work-and-no-play&quot;&gt;Was it all work and no play?&lt;/h3&gt;
+
+&lt;p&gt;Not at all. The summer school featured talks and group activities from morning until 5 pm. But after that, the participants had time every day to interact among themselves and explore the wonderful city of Delft and The Hague. We made the best use of this time and got a taste of Dutch culture. The beautiful markets of Delft and street concerts on the weekend were very exciting. At the same time, we also had a chance to try the famous ‘Fries and Mayonnaise’, dutch cheese and other varieties of food. On one of the evenings, the organisers hosted a social dinner in which all the participants and speakers participated. This gave us an opportunity to have informal discussions not only among ourselves, but also with the speakers. The food was delicious as well. On the final day of the summer school, we had student presentations on innovative subjects within the realm of robot ethics. The presentations were uniquely creative, and was well-appreciated by everyone.&lt;/p&gt;
 </content>
  </entry>
  

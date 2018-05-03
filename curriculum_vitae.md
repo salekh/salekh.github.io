@@ -23,10 +23,16 @@ For my latest transcript, see [here](../documents/transcript.pdf)
 
 ### **Publications**
 
-1. <strong>Combining Keystroke Dynamics and Face Recognition for User Verification: </strong> Available [here](../documents/sanchit-paper1.pdf)
-2. <strong>Ontology-based Classification and Analysis of non- emergency Smart-city Events: </strong> Available [here](../documents/sanchit-paper2.pdf)
+To access these papers in their original form, please visit my [Google Scholar Page](https://scholar.google.de/citations?user=AtgedNQAAAAJ&hl=de&oi=ao).
+
+1. [An Integrated Ontology-Based Approach for Patent Classification in Medical Engineering](https://link.springer.com/chapter/10.1007/978-3-319-69751-2_5)
+2. [Ontology Matching for Patent Classification](https://hal.archives-ouvertes.fr/hal-01674668/file/ISWC2017-OM-ws.pdf#page=45)
+3. [Automatic Raga Recognition in Hindustani Classical Music](https://arxiv.org/abs/1708.02322)
+4. [Combining Keystroke Dynamics and Face Recognition for User Verification](http://ieeexplore.ieee.org/abstract/document/7371386/)
+5. [Ontology-based Classification and Analysis of non- emergency Smart-city Events](http://ieeexplore.ieee.org/abstract/document/7514633/)
 
 ### **Standardized Test Scores**
 
 1. <strong>Graduate Record Exam : 329/340 - </strong> Quantitative: 170/170, Verbal: 159/170, Analytical Writing: 5/6
 2. <strong> TOEFL : 118/120</strong>
+3. <strong> DSM Sprachenzentrum RWTH Aachen </strong> (German Level B1) : 2,0 (German Grading Scale)
