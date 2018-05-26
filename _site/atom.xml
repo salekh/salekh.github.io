@@ -4,13 +4,47 @@
  <title>Sanchit Alekh</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-05-03T23:34:06+02:00</updated>
+ <updated>2018-05-27T01:55:27+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Sanchit Alekh</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Understanding the General Data Protection Regulation (GDPR)</title>
+   <link href="http://localhost:4000/2018/05/27/understanding-the-gdpr/"/>
+   <updated>2018-05-27T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2018/05/27/understanding-the-gdpr</id>
+   <content type="html">&lt;p&gt;The GDPR, or the &lt;strong&gt;&lt;em&gt;Datenschutz Grundverordnung (DSGVO)&lt;/em&gt;&lt;/strong&gt; in German, might well be one of the most groundbreaking pieces of legislations of the EU which directly or indirectly affects not just EU citizens, but internet-users all across the globe. However, to make it a real success, one of the most important factors is that we must be better informed and aware of the provisions of this directive.&lt;/p&gt;
+
+&lt;p&gt;GDPR is the first genuine effort to unify the plethora of disparate privacy regulations put forward by different regulatory bodies. It aims to not only give more control over their personal data to the citizens, but also make conformance for businesses easier by defining unified guidelines. It also presses businesses, especially those dealing with sensitive personal data, to build their information systems in a way that confirms with Privacy by Design. These regulations aim to ensure a more transparent handling and processing of personal data, and create an environment of trust and awareness on both sides, i.e., the data owner as well as the controllers/processors.&lt;/p&gt;
+
+&lt;p&gt;GDPR mandates that the highest privacy settings be used by default, and ‘explicit and verifiable’ consent be taken from the subject, and at the same time, also bestows the Right to Access and the Right to Erasure, which enables more transparency and accountability while handling personal data. The penalties for non-conformance are major enough that all kinds of companies, from small start-ups to large corporations, must take efforts and steps to follow these regulations.&lt;/p&gt;
+
+&lt;p&gt;To provide a brief introduction to the topic, I wrote a small paper, which can be found &lt;a href=&quot;http://salekh.github.io/documents/gdpr.pdf&quot;&gt;here&lt;/a&gt;. Hopefully, this helps in providing a more comprehensive understanding of the provisions of this law, without using a lot of legal jargon. Indeed, the technology that enables the GDPR is nothing new, and has existed for decades, including our encryption methods. However, the rise of internet users, and the importance of data in the current times has necessiated this urgent push.&lt;/p&gt;
+
+&lt;p&gt;It remains to be seen how citizens and businesses react to the GDPR. Many businesses have vol- untarily extended the coverage of the GDPR to non-European citizens as well, which is certainly a bright spot. The effort itself, after years of deliberations in the EU Parliament, on a subject that is important, and yet so personal, is commendable. To make it successful, we will have to work together and ensure a higher awareness amongst internet-users regarding the GDPR itself, and to use their consent in a judicious and privacy-aware manner. Privacy awareness will surely lead to a safer internet, with lesser instances of spillage of personal information. Our politicians have taken the first step towards providing us some guarantees and control over how our personal information is used. Now, the ball is in our court.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Smart Urban Mobility - The Key to our Future</title>
+   <link href="http://localhost:4000/2018/05/10/future-urban-mobility/"/>
+   <updated>2018-05-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2018/05/10/future-urban-mobility</id>
+   <content type="html">&lt;p&gt;Up until the last few years, the ways in which humans commuted remained largely the same. Indeed, trains had existed since the early 1800s, and cars and airplanes had already become the ‘next big thing’ in the 1950s. However, change ushered in when we started realizing that the astonishingly powerful engines that power our traditional means of transport are also unfathomably threatening to the environment.&lt;/p&gt;
+
+&lt;p&gt;Since then, development of technologies such as electric vehicles, the hyperloop concept, the ever- increasing network of efficient public transport and autonomous vehicles, have taken precedence. In my humble opinion, the future ways of urban commuting have to not only be sustainable and efficient, but at the same time, keep the human element alive. As artificial intelligence starts becoming more and more omnipresent, we will have to think of innovative ways to plan our urban landscape in a manner which supports our future means of transport.&lt;/p&gt;
+
+&lt;p&gt;During my current involvement at AUDI AG as an intern, I have pondered deeply about how changes in the way we travel will affect our lives. I have often thought that as we switch over to new innovative means of urban transport, we must also strive to keep making our existing systems more efficient and streamlined. E.g., I am a firm believer that more and more cities around the world should build efficient, people-friendly underground/suburban railway systems. At the same time, I believe that we must be well-prepared for the paradigm shifts which are going to happen sooner or later. E.g. the hyperloop technology, which will effectively change the way we currently think of cities and urban spaces themselves.&lt;/p&gt;
+
+&lt;p&gt;Gadgets such as the &lt;strong&gt;&lt;em&gt;Segway&lt;/em&gt;&lt;/strong&gt; promised a sea-change personal urban mobility, but fell short of their hype. But on the other hand, amazing new concepts such as the &lt;strong&gt;&lt;em&gt;blockchain&lt;/em&gt;&lt;/strong&gt; are revolutionizing the technological landscape. Blockchain is immediately identified as the raison d’être of cryptocurrency, but in reality, it has exciting applications beyond that. One of its most promising applications would be in regulating our future smart cities and making governments more transparent and accountable. But traffic management and autonomous transport is also set to benefit massively from this groundbreaking technology.&lt;/p&gt;
+
+&lt;p&gt;In short, the future of urban mobility is bright. Our urban spaces will be defined by how conveniently and efficiently they enable people to commute. Whether the idea of our future mobility is airborne personal transport, remains to be seen. But the gradual introduction of autonomous and electric vehicles will definitely be a step in the right direction.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>The Power of Imagination</title>
