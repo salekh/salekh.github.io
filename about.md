@@ -2,20 +2,22 @@
 layout: page
 title: About Me
 ---
-Welcome to my personal webpage. I am <strong>Sanchit Alekh</strong>. Apart from being a student of Computer Science, I am really passionate about music (Art in general, but music stands out), photography, cooking and traveling. I currently live and study in Aachen, located at the westernmost point of Germany. It is one of the few cities in the world which is located at the crossroads of 3 countries.
+Welcome to my personal webpage. I am <strong>Sanchit Alekh</strong>. 
 
-I study at the [RWTH Aachen University](http://www.rwth-aachen.de/cms/~a/root/?lidx=1), Germany's largest and leading technical university. The [Computer Science](http://www.informatik.rwth-aachen.de/) Department is situated at the nice and picturesque [Informatikzentrum](https://goo.gl/maps/H8KGQxtRfG52).
+I am currently working as a Big Data Engineer at [Data Reply GmbH](https://www.reply.com/data-reply/en/) in Munich, where I work on a diverse range of projects, mainly in the area of cloud and distributed computing. On my most recent project, I worked as a part of a team that developed an enterprise chatbot platform on the Microsoft Azure Cloud using technologies such as Kubernetes, Terraform, Botframework and Microsoft Cognitive Services.
 
-Currently, I am working at [AUDI AG](https://www.audi.de/de/brand/de.html) as a ***Data Scientist Intern*** in the group [TechHub Data Driven Production](http://www.audi.com/de/unternehmen/menschen/perfect-paint-finish.html). The group strives to create a co-working space for the Production and IT departments at the firm, to enable data-driven, smart and efficient automotive production.
+Combining my knowledge of software engineering, databases and distributed systems, I help customers develop and deploy complex software that routinely interacts with, and acts upon massive amounts of data on different kinds of infrastructure, i.e., on-premise or on public clouds such as AWS, Azure or GCP.
+
+Previously, I was working as a Data Scientist Intern at [AUDI AG](https://www.audi.com/de.html) in Neckarsulm, Germany, where our focus was on building solutions for smart-factories and enable data-driven production. I am a firm champion of using data analytics for making production more efficient, cost-effective and less wasteful.
+
+I pursued my MSc. in Software Systems Engineering from [RWTH Aachen University](http://www.rwth-aachen.de/cms/~a/root/?lidx=1), Germany's largest and leading technical university, where my coursework and research were focused in the area of 'Data and Information Management'. I was closely associated with the chair of Databases and Information Systems, where I worked under Prof. Christoph Quix.
 
 To know more about my personal life, please visit [this](http://salekh.github.io/personal_life/) page. To know about my academics, head to my [Academics](http://salekh.github.io/academic/) page.
-
 
 <div class="message">
   <h2>Current Events and Notifications</h2>
   <ul>
-    <li><strong>05.05.2018: </strong> In July 2018, I will begin my Master Thesis at AUDI AG, jointly supervised by <a href="http://dbis.rwth-aachen.de/cms/staff/quix">Dr. Christoph Quix</a> and <a href="http://dbis.rwth-aachen.de/cms/staff/geisler">Dr. Sandra Geisler</a> at RWTH.</li>
-    <li><strong>21.04.2018: </strong> I attended my first live football game, <a href="https://www.stuttgarter-nachrichten.de/inhalt.vfb-stuttgart-gegen-werder-bremen-eine-der-besten-offensivleistungen-dieser-saison.09ddacef-31f9-4138-8c9e-cbed0e581f4b.html">VfB Stuttgart vs Werder Bremen</a> at the Mercedes Benz Arena in Stuttgart</li>
+    <li><strong>01.01.2021: </strong>I have successfully spent 5 years in Germany. My heartfelt gratitude and thanks to everyone who I've come to know during this period. It's been a truly enriching and life-changing experience </li>
     
 
   </ul>
@@ -47,6 +49,8 @@ Thanks for reading!
 <div class="message">
   <h2>Past Events:</h2>
   <ul>
+    <li><strong>01.03.2019: </strong> I joined <a href="https://www.reply.com/data-reply/en/">Data Reply GmbH</a> in Munich in the role of a Consultant Big Data Engineer.</li>
+    <li><strong>10.01.2019: </strong> In July 2018, I began begin my Master Thesis at AUDI AG, jointly supervised by <a href="http://dbis.rwth-aachen.de/cms/staff/quix">Dr. Christoph Quix</a> and <a href="http://dbis.rwth-aachen.de/cms/staff/geisler">Dr. Sandra Geisler</a> at RWTH and <a href="https://www.linkedin.com/in/christoph-ring-65177799/">Christoph Ring</a> at AUDI AG. I defended it successfully in January 2019.</li>
     <li><strong>15.01.2018: </strong> I successfully passed the DSM exam, equivalent to Level B1 in German at the <a href="http://www.sz.rwth-aachen.de/sprachenzentrum.html">Sprachenzentrum RWTH Aachen</a></li>
     <li><strong>01.01.2018: </strong> In January 2018, I joined <a href="https://www.audi.de/de/brand/de.html">AUDI AG</a> for an Internship as a Data Scientist.</li>
     <li><strong>20.10.2017: </strong> I performed at the Diwali festival celebration in Aachen, organised by AISA (Association of Indian Students in Aachen) </li>
@@ -54,12 +58,8 @@ Thanks for reading!
     <li><strong>25.04.2017: </strong> I took two seminars, namely <strong>Privacy and Big Data</strong> and <strong>Computer Music</strong> and a lab course on <strong>SMT-Solving with Simplex</strong></li>
     <li><strong>15.04.2017: </strong> I started my the second semester of my Master studies. In this semester, I am taking courses on <strong>Logic Programming, Software Project Management</strong> and <strong>Functional Safety and System Dependability</strong></li>
     <li><strong>10.03.2017: </strong> I came to the end of the first phase of my exam season. I took exams in 5 subjects, namely Satisfiability Checking, Computer Vision, Virtual Reality, Big Data in Medical Informatics and Implementation of Databases.</li>
-    <li><strong>20.03.2017: </strong> I successfully completed Level A2 in German at the <a href="http://www.sz.rwth-aachen.de/sprachenzentrum.html">Sprachenzentrum RWTH Aachen</a></li>
-    <li><strong>01.04.2017: </strong> I took a break to visit India for 20 days</li>
-    <li><strong>20.12.2016: </strong>I travelled to the San Francisco Bay Area to visit my lovely cousins for the Christmas Break!</li>
     <li><strong>22.11.2016: </strong>I helped as a volunteer to organize the <a href="http://tdi2016.dbis.rwth-aachen.de/"> Tag Der Informatik (Computer Science Day)</a> at RWTH</li>
-    <li><strong>16.10.2016: </strong>I continued job as a Research Assistant at the <a href="http://dbis.rwth-aachen.de/cms">Databases and Information Systems Group</a> under <a href="http://dbis.rwth-aachen.de/cms/staff/quix">PD Dr. Christoph Quix</a></li>
+    <li><strong>16.10.2016: </strong>I continued my role as a Research Assistant at the <a href="http://dbis.rwth-aachen.de/cms">Databases and Information Systems Group</a> under <a href="http://dbis.rwth-aachen.de/cms/staff/quix">PD Dr. Christoph Quix</a></li>
     <li><strong>05.10.2016: </strong>I delivered a talk at i5 on Machine Learning Methods. Slides are available <a href="../documents/mltalk.pdf">here</a></li>
-    <li><strong>01.10.2016: </strong>I successfully completed Level A1 in German at the <a href="http://www.sz.rwth-aachen.de/sprachenzentrum.html">Sprachenzentrum RWTH Aachen</a></li>
   </ul>
 </div>

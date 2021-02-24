@@ -3,18 +3,28 @@ layout: page
 title: Curriculum Vitae
 ---
 
-For a more comprehensive PDF version of my CV, please visit [here](../documents/sanchit-resume.pdf)     
-For a short resume, see [here](../documents/sanchit-short-resume.pdf)   
-For my latest transcript, see [here](../documents/transcript.pdf)
+### **Note**
+The most up-to-date source of my professional and academic history would be my LinkedIn page, which can be accessed [here](https://www.linkedin.com/in/sanchitalekh/).
+
+
+### **Curriculum Vitae in PDF form**
+
+- [Comprehensive Industry CV](../documents/sanchit-resume.pdf)     
+- [Academic Version - EN](../documents/sanchit-academic-en.pdf)   
+- [Academic Version - DE](../documents/sanchit-academic-de.pdf)
 
 ### **Education**
 
-1. <strong>MSc. in Software Systems Engineering - </strong> RWTH Aachen University, Aachen, Germany ***GPA: 1.4 (German Scale)***
+1. <strong>MSc. in Software Systems Engineering - </strong> RWTH Aachen University, Aachen, Germany ***GPA: 1.3 (German Scale)***
 2. <strong>B.Tech (Honours) in Information Technology - </strong> Indian Institute of Information Technology, Allahabad. ***GPA: 9.08/10.0***
 3. <strong>Higher Secondary Schooling - </strong>  Delhi Public School, Patna, India. ***Grades: 93.6%***
 
+### **Work Experience**
+1. <strong> Consultant Big Data Engineer </strong> at [Data Reply GmbH](https://www.reply.com/data-reply/en/), Munich, Germany
+2. <strong> Data Scientist Intern </strong> at [AUDI AG](https://www.audi.com/de.html) Production IT, Neckarsulm, Germany (2018-2019)
 
-### **Work and Research Experience**
+
+### **Research Experience**
 
 1. <strong> Bachelor Thesis Work - </strong> Conducted at the Chair of Databases and Information Systems, RWTH Aachen. [Slides](../documents/thesis-presentation.pdf) and [Report](../documents/thesis-report.pdf) available.
 2. <strong>Summer Internship - </strong> Conducted at the Knowledge Mining and Assessment Group, TU Darmstadt, Germany.

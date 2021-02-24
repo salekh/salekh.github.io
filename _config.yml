@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Sanchit Alekh
-tagline:          'Personal Webpage'
-description:      'Master Student of Computer Science at <a href="http://www.rwth-aachen.de/cms/~a/root/?lidx=1">RWTH Aachen University, Germany.</a>'
+tagline:          Personal Webpage
+description:      'Consultant Big Data Engineer at <a href="https://www.reply.com/data-reply/en/">Data Reply GmbH, Munich</a>'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -23,3 +23,6 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/salekh
+
+linkedin:
+  url: https://www.linkedin.com/in/sanchitalekh/
