@@ -1,3 +1,6 @@
+# include .well-known folder for SSL certs
+include: [".well-known"]
+
 # Dependencies
 #markdown:         redcarpet
 highlighter:      pygments
