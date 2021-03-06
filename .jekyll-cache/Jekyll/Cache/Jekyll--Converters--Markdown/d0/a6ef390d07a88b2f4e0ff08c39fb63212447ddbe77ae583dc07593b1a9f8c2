@@ -1,0 +1,6 @@
+I"�<p>The concept of privacy is inherently intertwined with human attitudes and behaviours, as most computer systems are primarily designed for human-use. Especially in the case of Recommender Systems, which feed on information provided by individuals, their efficacy critically depends on whether or not information is externalized, and if it is, how much of this information contributes positively to their performance and accuracy.</p>
+
+<p>In my seminar on <strong>Privacy and Big Data</strong> taken at RWTH, I discussed the impact of several factors on users’ information disclosure behaviours and privacy-related attitudes, and how users of recommender systems can be nudged into making better privacy decisions for themselves. Apart from that, I also addressed the problem of privacy adaptation, i.e. effectively tailoring Recommender Systems by gaining a deeper understanding of people’s cognitive decision-making process.</p>
+
+<p>The seminar was taken under Prof. Dr. Stefan Decker at the chair of Databases and Information Systems. The full seminar report can be found <a href="../documents/human-privacy.pdf">here</a>. The presentation for my delivered talk can be accessed <a href="../documents/privacy-seminar.pdf">here</a>.</p>
+:ET
