@@ -1,6 +1,9 @@
 # include .well-known folder for SSL certs
 include: [".well-known"]
 
+# Additional Plugins
+plugins: ["jekyll-paginate"]
+
 # Dependencies
 #markdown:         redcarpet
 highlighter:      pygments
@@ -11,8 +14,8 @@ permalink:        pretty
 # Setup
 title:            Sanchit Alekh
 tagline:          Personal Webpage
-description:      'Consultant Big Data Engineer at <a href="https://www.reply.com/data-reply/en/">Data Reply GmbH, Munich</a>'
-url:              http://hyde.getpoole.com
+description:      'Data Engineer at <a href="https://www.rubinstein-schmiedel.com/">Rubinstein and Schmiedel AG, Munich</a>'
+url:              http://sanchitalekh.in
 baseurl:          /
 
 author:

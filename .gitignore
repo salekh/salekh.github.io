@@ -61,3 +61,7 @@ Gemfile.lock
 
 # Used by RuboCop. Remote config files pulled in from inherit_from directive.
 # .rubocop-https?--*
+
+# Jekyll
+.jekyll-cache/
+.sass-cache/

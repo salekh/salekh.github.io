@@ -4,7 +4,13 @@ title: About Me
 ---
 Welcome to my personal webpage. I am <strong>Sanchit Alekh</strong>. 
 
-I am currently working as a Big Data Engineer at [Data Reply GmbH](https://www.reply.com/data-reply/en/) in Munich, where I work on a diverse range of projects, mainly in the area of cloud and distributed computing. On my most recent project, I worked as a part of a team that developed an enterprise chatbot platform on the Microsoft Azure Cloud using technologies such as Kubernetes, Terraform, Botframework and Microsoft Cognitive Services.
+### **Current Work**
+
+I am currently working as a Data Engineer at [Rubinstein and Schmiedel AG](https://www.rubinstein-schmiedel.com/), a Swiss start-up and one of the most exciting companies in Europe working in the field of algorithmic trading. I work on the ***Trader*** and ***Infrastructure*** teams. My tasks involve software and API development, Kubernetes deployments and administration, MLOps, as well as automated provisioning and Infrastructure-as-Code on our own-premises hardware and Azure cloud.
+
+### **In the past**
+
+Before this, I was working as a Big Data Engineer at [Data Reply GmbH](https://www.reply.com/data-reply/en/) in Munich, where I worked on a diverse range of projects, mainly in the area of cloud and distributed computing. On my most recent project, I worked as a part of a team that developed an enterprise chatbot platform on the Microsoft Azure Cloud using technologies such as Kubernetes, Terraform, Botframework and Microsoft Cognitive Services.
 
 Combining my knowledge of software engineering, databases and distributed systems, I help customers develop and deploy complex software that routinely interacts with, and acts upon massive amounts of data on different kinds of infrastructure, i.e., on-premise or on public clouds such as AWS, Azure or GCP.
 
@@ -12,7 +18,7 @@ Previously, I was working as a Data Scientist Intern at [AUDI AG](https://www.au
 
 I pursued my MSc. in Software Systems Engineering from [RWTH Aachen University](http://www.rwth-aachen.de/cms/~a/root/?lidx=1), Germany's largest and leading technical university, where my coursework and research were focused in the area of 'Data and Information Management'. I was closely associated with the chair of Databases and Information Systems, where I worked under Prof. Christoph Quix.
 
-To know more about my personal life, please visit [this](http://salekh.github.io/personal_life/) page. To know about my academics, head to my [Academics](http://salekh.github.io/academic/) page.
+To know more about my personal life, please visit [this](http://sanchitalekh.in/personal_life/) page. To know about my academics, head to my [Academics](http://sanchitalekh.in/academic/) page.
 
 <div class="message">
   <h2>Current Events and Notifications</h2>

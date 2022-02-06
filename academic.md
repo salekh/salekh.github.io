@@ -29,4 +29,4 @@ The following links will shed more light about my academic interests and achieve
     </ul>
 </div>
 
-During my Master studies, I am taking a diverse selection of subjects, ranging from Virtual Reality to Satisfiability Checking. To follow the details about my coursework, please visit my [repository](https://github.com/salekh/RWTH-Semester1) on Github.
+During my Master studies, I took a diverse selection of subjects, ranging from Virtual Reality to Satisfiability Checking. To follow the details about my coursework, please visit my [repository](https://github.com/salekh/RWTH-Semester1) on Github.

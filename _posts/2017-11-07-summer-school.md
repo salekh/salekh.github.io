@@ -7,7 +7,7 @@ title: IDEA League Summer School on Responsible Robotics and AI
 From 27–30th August, 2017, a summer school on “Responsible Robotics and AI” was hosted at the Technische Universiteit Delft.  [IDEA League Summer School](http://idealeague.org/summerschool/) is a collaborative summer programme for graduate students and PhDs of the respective member universities. The diverse group of participants included those from ETH Zürich, RWTH Aachen, Chalmers University of Technology, RWTH Aachen, Politecnico di Milano and TokyoTech.
 
 
-![Singing at DIG Event](../pictures/idealeague.jpg)
+![Singing at DIG Event](../images/idealeague.jpg)
 
 ### What was this summer school about, and why is it important?
 The topic, i.e ***Responsible Robotics and AI*** is truly an inter-disciplinary amalgamation of topics such as psychology, robotics, ethics, design and computer science. As robots become more omnipresent and a significantly larger part of our personal lives, several ethical questions confront us as humans. The summer school tried to discuss and address these questions by stimulating the students not only with the latest academic research, but also with dialogues, conversations and productive group-activities.
