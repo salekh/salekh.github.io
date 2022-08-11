@@ -29,6 +29,34 @@ This is the code repository for [Sanchit Alekh](http://sanchitalekh.in)'s webpag
 - Access the original documentation for [Hyde](https://github.com/poole/hyde) and [Poole](http://getpoole.com) for more information on serving and editing Jekyll pages.
 
 More details can also be found [here](https://www.sanchitalekh.in/setup/setup.html#personal-website).
+
+
+## Ruby 2.7 Dependency
+
+Jekyll has a dependency on Ruby 2.7, however, newer OS versions (e.g. Ubuntu 22.04 LTS) come with Ruby 3.0 pre-installed. Therefore, some environment management might need to be done.
+
+- Install RVM for managing Ruby versions
+
+  ```
+  command curl -sSL https://rvm.io/pkuczynski.asc | gpg2 --import -
+  command curl -sSL https://rvm.io/mpapis.asc | gpg2 --import -
+  sudo apt-get install zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2 libxml2-dev libxslt-dev gawk libgdbm-dev libncurses5-dev automake libtool bison libffi-dev nodejs
+  \curl -sSL https://get.rvm.io | bash -s stable
+
+- Set the path in ~/.zshrc to source the rvm config
+
+  ```
+  source ~/.rvm/scripts/rvm
+
+- Install the desired version of Ruby (e.g. 2.7.6)
+
+  ```
+  rvm install 2.7.6
+
+- 
+
+
+
 ## Author
 
 **Sanchit Alekh**
