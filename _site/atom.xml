@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Sanchit Alekh</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2022-08-11T15:18:41+02:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+ <link href="http://0.0.0.0:4000/"/>
+ <updated>2022-08-11T15:47:47+02:00</updated>
+ <id>http://0.0.0.0:4000</id>
  <author>
    <name>Sanchit Alekh</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Life Update - February 2021</title>
-   <link href="http://localhost:4000/2021/02/24/life-update/"/>
+   <link href="http://0.0.0.0:4000/2021/02/24/life-update/"/>
    <updated>2021-02-24T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2021/02/24/life-update</id>
+   <id>http://0.0.0.0:4000/2021/02/24/life-update</id>
    <content type="html">&lt;p&gt;Unfortunately, I have spent way too much time away from my webpage, as a result there isn’t a lot of new content here. I hope I’ll be able to change it this year.&lt;/p&gt;
 
 &lt;p&gt;This past year has truly upended the lives of one and all. My thoughts are with each and every soul on this planet, who has lost one of his/her loved ones to this virus, for whom the light at the end of the tunnel is the faintest of all. May the lord give you strength.&lt;/p&gt;
@@ -25,9 +25,9 @@
  
  <entry>
    <title>Understanding the General Data Protection Regulation (GDPR)</title>
-   <link href="http://localhost:4000/2018/05/27/understanding-the-gdpr/"/>
+   <link href="http://0.0.0.0:4000/2018/05/27/understanding-the-gdpr/"/>
    <updated>2018-05-27T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/05/27/understanding-the-gdpr</id>
+   <id>http://0.0.0.0:4000/2018/05/27/understanding-the-gdpr</id>
    <content type="html">&lt;p&gt;The GDPR, or the &lt;strong&gt;&lt;em&gt;Datenschutz Grundverordnung (DSGVO)&lt;/em&gt;&lt;/strong&gt; in German, might well be one of the most groundbreaking pieces of legislations of the EU which directly or indirectly affects not just EU citizens, but internet-users all across the globe. However, to make it a real success, one of the most important factors is that we must be better informed and aware of the provisions of this directive.&lt;/p&gt;
 
 &lt;p&gt;GDPR is the first genuine effort to unify the plethora of disparate privacy regulations put forward by different regulatory bodies. It aims to not only give more control over their personal data to the citizens, but also make conformance for businesses easier by defining unified guidelines. It also presses businesses, especially those dealing with sensitive personal data, to build their information systems in a way that confirms with Privacy by Design. These regulations aim to ensure a more transparent handling and processing of personal data, and create an environment of trust and awareness on both sides, i.e., the data owner as well as the controllers/processors.&lt;/p&gt;
@@ -42,9 +42,9 @@
  
  <entry>
    <title>Smart Urban Mobility - The Key to our Future</title>
-   <link href="http://localhost:4000/2018/05/10/future-urban-mobility/"/>
+   <link href="http://0.0.0.0:4000/2018/05/10/future-urban-mobility/"/>
    <updated>2018-05-10T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/05/10/future-urban-mobility</id>
+   <id>http://0.0.0.0:4000/2018/05/10/future-urban-mobility</id>
    <content type="html">&lt;p&gt;Up until the last few years, the ways in which humans commuted remained largely the same. Indeed, trains had existed since the early 1800s, and cars and airplanes had already become the ‘next big thing’ in the 1950s. However, change ushered in when we started realizing that the astonishingly powerful engines that power our traditional means of transport are also unfathomably threatening to the environment.&lt;/p&gt;
 
 &lt;p&gt;Since then, development of technologies such as electric vehicles, the hyperloop concept, the ever- increasing network of efficient public transport and autonomous vehicles, have taken precedence. In my humble opinion, the future ways of urban commuting have to not only be sustainable and efficient, but at the same time, keep the human element alive. As artificial intelligence starts becoming more and more omnipresent, we will have to think of innovative ways to plan our urban landscape in a manner which supports our future means of transport.&lt;/p&gt;
@@ -59,9 +59,9 @@
  
  <entry>
    <title>The Power of Imagination</title>
-   <link href="http://localhost:4000/2018/04/27/imagination/"/>
+   <link href="http://0.0.0.0:4000/2018/04/27/imagination/"/>
    <updated>2018-04-27T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/04/27/imagination</id>
+   <id>http://0.0.0.0:4000/2018/04/27/imagination</id>
    <content type="html">&lt;p&gt;What is human existence, if not our power to imagine a better world, and the tenacity to make it happen? Since time immemorial, we have imagined superior ways to express, create and invent. This is what has given us infinite possibilities to progress and transform ourselves from hunter-gatherers to a species living a sophisticated life with a purpose.
 In the recent years, scientists and researchers have continually strived to push the boundaries of technology further and further. I would go as far as to say that Computer Science, which is a relatively young field of science, would not have risen to prominence if we had not collectively imagined building machines which could undertake and perform the most complex tasks that humans could.&lt;/p&gt;
 
@@ -80,9 +80,9 @@ In the recent years, scientists and researchers have continually strived to push
  
  <entry>
    <title>Should Biotechnology take a step back and ponder about Ethical Issues?</title>
-   <link href="http://localhost:4000/2018/04/25/biotechnology-ethics/"/>
+   <link href="http://0.0.0.0:4000/2018/04/25/biotechnology-ethics/"/>
    <updated>2018-04-25T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/04/25/biotechnology-ethics</id>
+   <id>http://0.0.0.0:4000/2018/04/25/biotechnology-ethics</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;“The potential for synthetic biology and biotechnology is vast; we all have an opportunity to create the future together.” -Ryan Bethencourt&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -101,9 +101,9 @@ In the recent years, scientists and researchers have continually strived to push
  
  <entry>
    <title>Human Aspects of Privacy in Relation to Personalization</title>
-   <link href="http://localhost:4000/2018/01/20/human-privacy/"/>
+   <link href="http://0.0.0.0:4000/2018/01/20/human-privacy/"/>
    <updated>2018-01-20T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2018/01/20/human-privacy</id>
+   <id>http://0.0.0.0:4000/2018/01/20/human-privacy</id>
    <content type="html">&lt;p&gt;The concept of privacy is inherently intertwined with human attitudes and behaviours, as most computer systems are primarily designed for human-use. Especially in the case of Recommender Systems, which feed on information provided by individuals, their efficacy critically depends on whether or not information is externalized, and if it is, how much of this information contributes positively to their performance and accuracy.&lt;/p&gt;
 
 &lt;p&gt;In my seminar on &lt;strong&gt;Privacy and Big Data&lt;/strong&gt; taken at RWTH, I discussed the impact of several factors on users’ information disclosure behaviours and privacy-related attitudes, and how users of recommender systems can be nudged into making better privacy decisions for themselves. Apart from that, I also addressed the problem of privacy adaptation, i.e. effectively tailoring Recommender Systems by gaining a deeper understanding of people’s cognitive decision-making process.&lt;/p&gt;
@@ -114,9 +114,9 @@ In the recent years, scientists and researchers have continually strived to push
  
  <entry>
    <title>IDEA League Summer School on Responsible Robotics and AI</title>
-   <link href="http://localhost:4000/2017/11/07/summer-school/"/>
+   <link href="http://0.0.0.0:4000/2017/11/07/summer-school/"/>
    <updated>2017-11-07T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2017/11/07/summer-school</id>
+   <id>http://0.0.0.0:4000/2017/11/07/summer-school</id>
    <content type="html">&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
 &lt;p&gt;From 27–30th August, 2017, a summer school on “Responsible Robotics and AI” was hosted at the Technische Universiteit Delft.  &lt;a href=&quot;http://idealeague.org/summerschool/&quot;&gt;IDEA League Summer School&lt;/a&gt; is a collaborative summer programme for graduate students and PhDs of the respective member universities. The diverse group of participants included those from ETH Zürich, RWTH Aachen, Chalmers University of Technology, RWTH Aachen, Politecnico di Milano and TokyoTech.&lt;/p&gt;
 
@@ -139,9 +139,9 @@ In the recent years, scientists and researchers have continually strived to push
  
  <entry>
    <title>Feature Extraction And Statistical Analysis Of Ragas In Indian Classical Music - A Summary</title>
-   <link href="http://localhost:4000/2017/05/01/computer-music/"/>
+   <link href="http://0.0.0.0:4000/2017/05/01/computer-music/"/>
    <updated>2017-05-01T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2017/05/01/computer-music</id>
+   <id>http://0.0.0.0:4000/2017/05/01/computer-music</id>
    <content type="html">&lt;p&gt;Hindustani Classical Music is a music form originating from the northern part of India. It was composed between 1500-900 B.C, making it widely regarded as one of the oldest music systems in the world. Traditionally, it has been enjoyed as not just a means for aesthetic pleasure, but a way of realizing inner happiness and self-release. There is also a strong sense of spirituality associated with Hindustani Music, which is essential for its study and practice. The most striking feature of Hindustani Music is its imaginative and improvised nature, which implies that there are no written script even while performing. There are no fixed compositions that the artist has to adhere to. In effect, the entire performance is an extempore, and the artist is playing the role of the singer, composer and the conductor all at the same time. The artist adheres to a concept called as the Raga. The Raga is the central melodic concept in Indian music. According to Rao et al., it is neither a tune, nor is it a modal scale, but rather a continuum with scale and tune as its extremes. Broadly speaking, it can be termed as a melodic mode or tonal matrix possessing a rigid and specific individual identity, yet bearing immense potential for infinite improvisatory possibilities. The raga serves as a basic grammar for composition and improvisation in Indian music.&lt;/p&gt;
 
 &lt;p&gt;The use of statistical and probabilistic tools in Musicology is not new. Temperley and Beran have very systematically laid down the probabilistic and statistical techniques used for music analyses respectively. The well-defined structure of a Raga makes the possibility of the usage of probabilistic and stochastic modeling techniques extremely favourable. Although the notes and intonations in an artist’s rendition are inherently unpredictable, there are some properties of the raga, e.g. the most dominant note (vadi), the second most dominant note (samvadi) and the identifying tonic pattern(pakad), which are more-or-less kept constant. This has led to the development of several approaches for automatic classification and clustering of ragas. The task of raga identification has been a subject of great curiosity among researchers. Given the fact that music is an art, and the plethora of improvisation possibilities that the artist can employ, even seasoned human listeners sometimes find it difficult to identify ragas. Indeed, some ragas have very minute differences, some have the same scale and notes, however the pattern of their usage and the corresponding emotions induced can be extremely different. One of the most notable examples is Raga Bhupali and Raga Deshkar. Some sophisticated automatic techniques have, however been fairly successful as they are able to infer a whole body of information about the raga using techniques such as Pitch Distribution Methods, Transposition Invariance Uniform Time Scaling and Vector Space Modeling.&lt;/p&gt;
@@ -152,9 +152,9 @@ In the recent years, scientists and researchers have continually strived to push
  
  <entry>
    <title>On Responsible and Ethical Robotics</title>
-   <link href="http://localhost:4000/2017/04/30/responsible-robotics/"/>
+   <link href="http://0.0.0.0:4000/2017/04/30/responsible-robotics/"/>
    <updated>2017-04-30T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2017/04/30/responsible-robotics</id>
+   <id>http://0.0.0.0:4000/2017/04/30/responsible-robotics</id>
    <content type="html">&lt;p&gt;Ever since the inception of Artificial Intelligence and Robotics as a discipline, the aim of researchers has been to make machines as intelligent as possible. In other words, to make machines function as if they had their own mind. Although this presents an exciting prospect for humanity, I believe that we would have to collectively shoulder the moral and ethical responsibilities associated with these efforts. In my opinion, creating machines with minds would be tantamount to giving birth to a whole new species, which we might or might not have full control over.&lt;/p&gt;
 
 &lt;p&gt;This exciting (and sometimes haunting) prospect makes Robotics and AI much more than a standalone discipline. It requires a culmination of thoughts, concepts and processes from several other sciences and arts, such as Psychology, Anthropology, Ethics, Law, Production Engineering and several others. This means that future robotics doesn’t just have to ensure good design and high productivity, but it also needs to take into account all the other humane and ethical factors. Some intriguing questions that immediately come to mind are: Should Robots have rights? Should there be a maximum time limit for which they can be put to work? For a sustainable and harmonious future, we would need answers to such questions, and this would require knowledge about not just artificial intelligence, but how it intimately interacts with the other scientific fields mentioned above.&lt;/p&gt;
@@ -164,9 +164,9 @@ In the recent years, scientists and researchers have continually strived to push
  
  <entry>
    <title>From the Old Archives - The Pursuit of Optimization</title>
-   <link href="http://localhost:4000/2014/12/10/the-pursuit-of-optimization/"/>
+   <link href="http://0.0.0.0:4000/2014/12/10/the-pursuit-of-optimization/"/>
    <updated>2014-12-10T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2014/12/10/the-pursuit-of-optimization</id>
+   <id>http://0.0.0.0:4000/2014/12/10/the-pursuit-of-optimization</id>
    <content type="html">&lt;p&gt;Plain and simple, optimization is essentially the art, science and mathematics of choosing the best among a given set of finite or infinite alternatives. It gets as close to real life as it can. Optimization Problems are one of the most important as well as critical problems faced by man, given the basic principle of Economics that our wants are endless, and resources, finite. It’s an inter-disciplinary subject, cutting across Economics, Mathematics, Engineering and Natural Sciences.&lt;/p&gt;
 
 &lt;p&gt;According to Roman Legend, the earliest possible mention of an optimization problem was in 500 BCE in the tale of Princess Dido. She was fleeing from the prosecution of her brother and a piece of land on the Mediterranean coast caught her fancy. She made a deal with the local leader. She requested him to cut a bull’s hide into thin strips and tie them up and enclose as much land as one can with it. In modern day language the problem is mathematically stated as follows - &lt;em&gt;Among all closed curves of a given length find the one that encloses maximum area&lt;/em&gt;. This is called the &lt;em&gt;Isoperimetric problem&lt;/em&gt;.&lt;/p&gt;
