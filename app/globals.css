@@ -1,0 +1,100 @@
+@import "tailwindcss";
+@plugin "tailwindcss-animate";
+@plugin "@tailwindcss/typography";
+
+:root {
+  /* User provided Palette */
+  --ice: #EAFEFF;
+  --night: #19186B;
+  /* rgb(25, 24, 107) */
+  --cobalt: #2434BE;
+  /* rgb(36, 52, 190) */
+  --mint: #92F4C5;
+  /* rgb(146, 244, 197) */
+  --jade: #6ED29C;
+  --teal: #144B45;
+  --raspberry: #DA5656;
+  /* rgb(218, 86, 86) */
+  --ocre: #FFC95F;
+
+  /* Theme mappings */
+  --background: var(--ice);
+  --foreground: var(--night);
+  --accent-primary: var(--cobalt);
+  --accent-secondary: var(--mint);
+  --highlight: var(--raspberry);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-space-grotesk);
+
+  /* Brand Colors */
+  --color-night: var(--night);
+  --color-cobalt: var(--cobalt);
+  --color-mint: var(--mint);
+  --color-jade: var(--jade);
+  --color-teal: var(--teal);
+  --color-raspberry: var(--raspberry);
+  --color-ocre: var(--ocre);
+  --color-ice: var(--ice);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* For dark mode, invert to Night background */
+    --background: var(--night);
+    --foreground: var(--ice);
+    /* In dark mode, cobalt might be too dark, so we use mint as primary accent */
+    --accent-primary: var(--mint);
+    --accent-secondary: var(--cobalt);
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), sans-serif;
+  position: relative;
+  overflow-x: hidden;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+/* Custom Selection Color */
+::selection {
+  background: var(--cobalt);
+  color: var(--mint);
+}
+
+/* Background Gradients */
+.bg-gradient-aurora {
+  background:
+    radial-gradient(at 0% 0%, rgba(var(--gradient-1), 0.15) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(var(--gradient-2), 0.15) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(var(--gradient-3), 0.15) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, rgba(var(--gradient-1), 0.15) 0px, transparent 50%);
+  filter: blur(100px);
+}
+
+/* Noise Texture */
+.bg-noise {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.05'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 128px;
+  opacity: 0.4;
+  pointer-events: none;
+  z-index: 50;
+}

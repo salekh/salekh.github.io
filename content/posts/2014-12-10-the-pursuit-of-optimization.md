@@ -1,0 +1,23 @@
+---
+layout: post
+title: From the Old Archives - The Pursuit of Optimization
+aiOverview: >-
+  This article explores optimization as the art of choosing the best alternative
+  from a set of options, tracing its history from the Legend of Princess Dido to
+  modern algorithms. It discusses the limitations of brute-force approaches and
+  highlights how Dynamic Programming revolutionized the field by solving complex
+  problems efficiently through sub-problem caching, a technique widely used by
+  tech giants today.
+---
+
+Plain and simple, optimization is essentially the art, science and mathematics of choosing the best among a given set of finite or infinite alternatives. It gets as close to real life as it can. Optimization Problems are one of the most important as well as critical problems faced by man, given the basic principle of Economics that our wants are endless, and resources, finite. It’s an inter-disciplinary subject, cutting across Economics, Mathematics, Engineering and Natural Sciences.
+
+According to Roman Legend, the earliest possible mention of an optimization problem was in 500 BCE in the tale of Princess Dido. She was fleeing from the prosecution of her brother and a piece of land on the Mediterranean coast caught her fancy. She made a deal with the local leader. She requested him to cut a bull’s hide into thin strips and tie them up and enclose as much land as one can with it. In modern day language the problem is mathematically stated as follows - *Among all closed curves of a given length find the one that encloses maximum area*. This is called the *Isoperimetric problem*.
+
+Great minds like Lagrange, Gauss, Newton, Bernoulli and Euler have all had significant contributions to the Optimization Theory, but a significant impetus was provided to it with the development of Linear Programming as an Optimization Technique. A linear programming problem consists of linear functions as objective and constraints. It became apparent that linear programming has tremendous applications in economics, military operations, business, engineering, etc. It was the development of the simplex method for solving linear programming problems that became the turning point of the subject.
+
+In the field of Computer Sciences, Algorithmics deals with the problems of optimization and how to devise the most optimal solution. There are several algorithms which have been developed over the years to tackle problems of the kind. Russian Novelist Ivan Turgenev said - *Whatever man prays for, he prays for a miracle. Every prayer reduces itself to this—Great God, grant that twice two be not four.* This would make absolute sense to a computer scientist, who knows that if optimization problems are tried to be solved using the Brute-Force or Divide-and-Conquer mechanism, it would lead to exponential complexity, which is computationally the most tedious calculation possible. Even for an input size as small as 40, and with ample processing power, the solution may take several minutes, or probably hours to compute.
+In the above situation, Richard Bellman came with an alternative in the 1950s, which we now know as *‘Dynamic Programming’*. On analysis, it is not tough to show that Dynamic Programming yields the solution of several optimization problems in Polynomial Time, which is a massive leap from the exponential time complexity given by its Brute-Force counterpart.
+
+Dynamic Programming believes that optimal solutions to a problem incorporate optimal solutions to its related sub-problems, which may be solved independently. It works as follows: having observed that a naïve recursive solution is inefficient because it solves the same sub problems repeatedly, we arrange for each sub-problem to be solved only once, saving its solution. If we need to refer to this sub-problem’s solution again later, we can just look it up, rather than recompute it. Dynamic Programming thus uses additional memory to save computation time.
+Because of its efficiency and ease of solving computationally demanding optimization problems, Dynamic Programming has retained itself as a Programmer’s Choice, and search engines like Google, social networks like Facebook and Twitter all have numerous usages of Dynamic Programming at each stage of their coding process.
